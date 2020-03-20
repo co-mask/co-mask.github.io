@@ -1,4 +1,4 @@
-Welcome to #Co-MASK
+# Welcome to #Co-MASK
 
 Co-MASK is a global co-creation project aimed at a wide-spread production and dissemination of DIY fabric masks to support our community at the time of crisis. The masks promote hope, humanity, and hygiene practices. Rather than erasing our personality and facial expression, the Co-MASK is aimed at raising awareness about the risks of infection and the need for physical distancing, while promoting social solidarity. Creative collaboration across borders allow for expression of our diverse and fluid identities, bringing us closer together as global citizens at the time of physical distancing and struggle for survival. 
 
