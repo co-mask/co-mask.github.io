@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+Welcome to #Co-MASK
 
-You can use the [editor on GitHub](https://github.com/co-mask/co-mask.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Co-MASK is a global co-creation project aimed at a wide-spread production and dissemination of DIY fabric masks to support our community at the time of crisis. The masks promote hope, humanity, and hygiene practices. Rather than erasing our personality and facial expression, the Co-MASK is aimed at raising awareness about the risks of infection and the need for physical distancing, while promoting social solidarity. Creative collaboration across borders allow for expression of our diverse and fluid identities, bringing us closer together as global citizens at the time of physical distancing and struggle for survival. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/co-mask/co-mask.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The project offers sewing instructions for the face masks in personalized sizes, using 3 layers of fabric available at home: cotton T-shirt and kitchen cloth, and non-woven fabric. They are washable, have a nose clip, and allow for inserting a surgical mask and/or a replaceable filter. While the Co-MASK cannot prevent an infection with the Coronavirus, it does provide some protection from larger droplets and by preventing you from touching your face. The mask instructions can be replicated in any location, in any language. We hope to inspire you to create these masks for your community, making them available for free and through a no-contact pick up. DIY instructions for replication are made available for everyone in various languages, so anyone with or without a sewing machine can multiply the effort.
