@@ -1,4 +1,6 @@
 title: Co-MASK
-description: DIY fabric masks for preserving our humanity through hope, humor, and hygiene! 
+description: DIY fabric masks for preserving our humanity through hope, humor, and hygiene!
 theme: jekyll-theme-minimal
 logo: logo.jpg
+github:
+  is_project_page: false
