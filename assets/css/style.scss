@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+h1 {
+    font-size:40px
+}
+
 a {
     color: #ff0000;
     text-decoration:none
