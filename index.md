@@ -7,6 +7,7 @@ Kiss and smile at a safe distance!
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 The project offers instructions in many languages for how to make masks in individual sizes. All you need are materials you will likely find at home: a cotton T-shirt, a kitchen cloth, and non-woven fabric. You do not need a sewing machine; scissors, thread, and needle will be enough. The masks are washable, have a nose clip, and allow you to insert a replaceable filter, such as a surgical mask. **While the Co-MASK cannot prevent an infection with the Coronavirus, it offers some protection from larger droplets and prevents you from touching your face**. We are currently translating the mask instructions into many languages–you are welcome to help. We hope to inspire you to create these masks for your family, friends, and your community. Please wash your hands and the masks before disseminating and be careful to distribute them without direct physical contact. 
 
 Create your own mask with a kiss and a smile, post it on social media with the hashtag **#Co-MASK**
@@ -20,6 +21,11 @@ The project offers instructions in many languages how to make masks in individua
 
 Create your own mask with kiss and smile, post on social media with the hashtag **#Co-MASK**
 >>>>>>> e3d7a41dd8720906e4fa31ab7fe2c66a40171cbf
+=======
+The project offers instructions in many languages how to make masks in individual sizes. All you need are materials you will likely find at home: a cotton T-shirt, a kitchen cloth, and non-woven fabric. You do not need a sewing machine; scissors, thread, and needle will be enough. The masks are washable, have a nose clip, and allow for inserting a replaceable filter, such as a surgical mask. <span style="color:red">While the Co-MASK cannot prevent an infection with the Coronavirus, it offers some protection from larger droplets and prevents you from touching your face.</span> We are currently translating the mask instructions into many languages–you are welcome to help. We hope to inspire you to create these masks for your family, friends, and your community. Please wash the masks before disseminating and be careful to distribute them without direct physical contact. 
+
+Create your own mask with kiss and smile, post on social media with the hashtag <span style="color:red">**#Co-MASK**</span>
+>>>>>>> parent of e3d7a41... Update index.md
 =======
 The project offers instructions in many languages how to make masks in individual sizes. All you need are materials you will likely find at home: a cotton T-shirt, a kitchen cloth, and non-woven fabric. You do not need a sewing machine; scissors, thread, and needle will be enough. The masks are washable, have a nose clip, and allow for inserting a replaceable filter, such as a surgical mask. <span style="color:red">While the Co-MASK cannot prevent an infection with the Coronavirus, it offers some protection from larger droplets and prevents you from touching your face.</span> We are currently translating the mask instructions into many languages–you are welcome to help. We hope to inspire you to create these masks for your family, friends, and your community. Please wash the masks before disseminating and be careful to distribute them without direct physical contact. 
 
