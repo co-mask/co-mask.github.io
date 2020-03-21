@@ -1,5 +1,13 @@
 # Welcome to Co-MASK
 
+
+|Translations||||
+|---|---|---|---|
+| Arabic           | German    | Hindi      | [Spanish](https://docs.google.com/presentation/d/1LXYo50ZgN1rFB-5t_2WhzbM1kg1Z7gD_UUVFEN1SblE/edit?usp=sharing) |
+| Bosnian          | Greek     | Italian    | Turkish  |
+| Creole (Haitian) | Gujarati  | Korean     | Urdu |
+| French           | [Hebrew](https://docs.google.com/presentation/d/1cNT-sOp2vS-0BuAuIIPzrBh3zdez-ZKLi3l8RrRI3sY/edit?usp=sharing) | Portuguese | Vietnamese    |
+
 We invite you to join a global project to create fabric masks that promote hope, humanity, and hygiene practices in time of crisis. Collaborating across borders, we want to raise awareness about the risks of COVID-19 infection and the need for physical distancing, advocating solidarity. 
 
 Kiss and smile at a safe distance!
