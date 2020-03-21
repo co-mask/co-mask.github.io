@@ -8,6 +8,6 @@ The project offers instructions in many languages how to make masks in individua
 
 Create your own mask with kiss and smile, post on social media with the hashtag **#Co-MASK**
 
-View the [sewing instructions](https://docs.google.com/presentation/d/1T_rO2Q8HKdWN_8hhGp65-JKylpn2vpFx0kGD602U618/edit?usp=sharing) in English (translations to other languages in progress, stay tuned for updates). 
+View the detailed [sewing instructions](https://docs.google.com/presentation/d/1T_rO2Q8HKdWN_8hhGp65-JKylpn2vpFx0kGD602U618/edit?usp=sharing) in English (translations to other languages in progress, stay tuned for updates). 
 
 ![](media/image1.jpg)
