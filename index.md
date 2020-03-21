@@ -1,8 +1,6 @@
 # Welcome to Co-MASK
 
-**Sewing Instructions**
-
-|||||
+|How to make:||||
 |---|---|---|---|
 | Arabic           | German    | Italian | Urdu |
 | Bosnian          | Greek     | Korean | Vietnamese |
