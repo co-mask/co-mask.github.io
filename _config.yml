@@ -4,4 +4,4 @@ description: DIY fabric masks for preserving our humanity through hope, humor, a
 theme: jekyll-theme-minimal
 logo: logo.jpg
 github:
-  is_project_page: false
+  is_project_page: true
