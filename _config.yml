@@ -5,3 +5,4 @@ theme: jekyll-theme-minimal
 logo: logo.jpg
 github:
   is_project_page: true
+  is_user_page: false
