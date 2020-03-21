@@ -11,8 +11,7 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 View the detailed [sewing instructions](https://docs.google.com/presentation/d/1T_rO2Q8HKdWN_8hhGp65-JKylpn2vpFx0kGD602U618/edit?usp=sharing) in English (see the links below for translations to other languages >> this is work in progress, stay tuned for updates and contact us if you want to add a language). 
 
 
-
-![](media/Co-MASK Basic.png)
+![co-mask basic](media/Co-MASK Basic.png)
 
 Sewing instructions in various languages (translations in progress):
 
