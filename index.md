@@ -6,4 +6,6 @@ The project offers instructions in many languages how to make masks in individua
 
 Create your own mask with kiss and smile, post on social media with hashtag **#Co-MASK**
 
+Contact us on Facebook at [fb.me/co.mask.community](https://fb.me/co.mask.community)
+
 ![](media/image1.jpg)
