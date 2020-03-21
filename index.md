@@ -8,7 +8,42 @@ The project offers instructions in many languages for how to make masks in indiv
 
 Create your own mask with a kiss and a smile, post it on social media with the hashtag **#CoMASK**
 
-View the detailed [sewing instructions](https://docs.google.com/presentation/d/1T_rO2Q8HKdWN_8hhGp65-JKylpn2vpFx0kGD602U618/edit?usp=sharing) in English (translations to other languages in progress, stay tuned for updates). 
+View the detailed [sewing instructions](https://docs.google.com/presentation/d/1T_rO2Q8HKdWN_8hhGp65-JKylpn2vpFx0kGD602U618/edit?usp=sharing) in English (see the links below for translations to other languages >> this is work in progress, stay tuned for updates and contact us if you want to add a language). 
 
 
-![](media/image1.jpg)
+
+![](media/Co-MASK Basic.png)
+
+Sewing instructions in various languages (translations in progress):
+
+ Arabic
+
+Bosnian
+
+Creole (Haitian)
+
+French
+
+German
+
+Greek
+
+Gujarati
+
+[Hebrew](https://docs.google.com/presentation/d/1cNT-sOp2vS-0BuAuIIPzrBh3zdez-ZKLi3l8RrRI3sY/edit?usp=sharing)
+
+Hindi
+
+Italian
+
+Korean
+
+Portuguese
+
+[Spanish](https://docs.google.com/presentation/d/1LXYo50ZgN1rFB-5t_2WhzbM1kg1Z7gD_UUVFEN1SblE/edit?usp=sharing) 
+
+Turkish 
+
+Urdu
+
+Vietnamese
