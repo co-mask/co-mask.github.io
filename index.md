@@ -10,7 +10,7 @@
 
 Translations in progress, contact us if you want to add your language.
 
-We invite you to join a global project to create fabric masks that promote hope, humanity, and hygiene practices in time of crisis. Collaborating across borders, we want to raise awareness about the risks of COVID-19 infection and the need for **physical distancing and self-isolation**, while advocating solidarity with the most vulnerable in your community. 
+We invite you to join a global project to create fabric masks that promote hope, humanity, and hygiene practices in time of crisis. Collaborating across borders, we want to raise awareness about the risks of COVID-19 infection and the need for **physical distancing and self-isolation, while advocating solidarity with the most vulnerable in our global community.** 
 
 Kiss and smile at a safe distance!
 
