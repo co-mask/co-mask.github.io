@@ -1,4 +1,4 @@
-# Create the Co-MASK! 
+# How to Co-MASK
 
 |How to make:||||
 |:--|---|---|---|
