@@ -4,7 +4,7 @@
 |:--|---|---|---|
 | اَلْعَرَبِيَّةُ | Deutsch | Italiano | اُردُو |
 | Bosanski   | [ελληνικά](https://docs.google.com/presentation/d/1wxX9T3keWJAIGZngB93HFvJZnJ3-_6vaQDpDb8kAoH0/edit?usp=sharing) | 한국어/韓國語 | Tiếng Việt |
-| kreyòl ayisyen | ગુજરાતી | Português |  |
+| kreyòl ayisyen | ગુજરાતી | [Português](https://docs.google.com/presentation/d/1k7DGbnfYzxcFBW5vOmlco_-1Y9bfZ-5FkDBA2iAVzoU/edit?usp=sharing) |  |
 | [English](https://docs.google.com/presentation/d/1T_rO2Q8HKdWN_8hhGp65-JKylpn2vpFx0kGD602U618/edit?usp=sharing) | [עִבְרִית‎](https://docs.google.com/presentation/d/1cNT-sOp2vS-0BuAuIIPzrBh3zdez-ZKLi3l8RrRI3sY/edit?usp=sharing) | [Español](https://docs.google.com/presentation/d/1LXYo50ZgN1rFB-5t_2WhzbM1kg1Z7gD_UUVFEN1SblE/edit?usp=sharing) |     |
 |Français|हिन्दी-उर्दू|[Türkçe](https://docs.google.com/presentation/d/1zsKw7xeurfuEbOJjGvUP_igr3cMyd7Jflbu0kfEKD1Y/edit#slide=id.g71aa90b52d_0_0)||
 
