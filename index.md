@@ -34,3 +34,14 @@ More information about masks, their hygiene and effectiveness
 [WHO advice: when and how to use the masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
 
 [A comparative study of fabric masks vs. medical masks](https://bmjopen.bmj.com/content/5/4/e006577)
+
+
+
+Other excellent DIY masks with video instructions:
+
+[Face fitting HK Mask with sewing patterns in for babies, children and adults](https://diymask.site/) (machine needed)
+
+[Download the PDF sewing pattern for the Co-MASK Basic type](https://www.infirmiers.com/pdf/masque-tissu.pdf) (printer needed)
+
+[Youtube video instructions - how to modify the MERV13 filter for the mask](https://youtu.be/6T787NV6FpA)
+
