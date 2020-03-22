@@ -35,6 +35,8 @@ More information about masks, their hygiene and effectiveness
 
 [A comparative study of fabric masks vs. medical masks](https://bmjopen.bmj.com/content/5/4/e006577)
 
+[Scientific testing:  What is the efficacy of the homemade masks?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
+
 
 
 Other excellent DIY masks with video instructions:
