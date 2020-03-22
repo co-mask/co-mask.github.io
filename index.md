@@ -3,7 +3,7 @@
 |How to make:||||
 |:--|---|---|---|
 | اَلْعَرَبِيَّةُ | Deutsch | Italiano | اُردُو |
-| Bosanski   | [ελληνικά](https://docs.google.com/presentation/d/1wxX9T3keWJAIGZngB93HFvJZnJ3-_6vaQDpDb8kAoH0/edit?usp=sharing) | 한국어/韓國語 | Tiếng Việt |
+| [Bosanski](https://docs.google.com/presentation/d/1Wo35d7BZaEPhtMg0TuXQrnP0szMFHge_3etbAyDg__4/edit?usp=sharing) | [ελληνικά](https://docs.google.com/presentation/d/1wxX9T3keWJAIGZngB93HFvJZnJ3-_6vaQDpDb8kAoH0/edit?usp=sharing) | 한국어/韓國語 | Tiếng Việt |
 | kreyòl ayisyen | ગુજરાતી | Português |  |
 | [English](https://docs.google.com/presentation/d/1T_rO2Q8HKdWN_8hhGp65-JKylpn2vpFx0kGD602U618/edit?usp=sharing) | [עִבְרִית‎](https://docs.google.com/presentation/d/1cNT-sOp2vS-0BuAuIIPzrBh3zdez-ZKLi3l8RrRI3sY/edit?usp=sharing) | [Español](https://docs.google.com/presentation/d/1LXYo50ZgN1rFB-5t_2WhzbM1kg1Z7gD_UUVFEN1SblE/edit?usp=sharing) |     |
 |Français|हिन्दी-उर्दू|[Türkçe](https://docs.google.com/presentation/d/1zsKw7xeurfuEbOJjGvUP_igr3cMyd7Jflbu0kfEKD1Y/edit#slide=id.g71aa90b52d_0_0)||
@@ -43,7 +43,7 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 **Donate your masks:**
 
-[Cambridge Health Alliance accepting mask donations](https://www.bostonglobe.com/2020/03/17/metro/cambridge-health-alliance-accepting-mask-donations-amid-coronavirus-pandemic/)
+Cambridge Health Alliance accepting mask donations
 
 [Forbes article: Calling for mask makers to address healthcare worker PPE shortage](https://www.forbes.com/sites/tjmccue/2020/03/20/calling-all-people-who-sew-and-make-you-can-help-solve-2020-n95-type-mask-shortage/?fbclid=IwAR0NsmbXPKeVfUDz3MtjHyElnb9QrAzLfYfasiexVrScos7pwdN2uXjfZmw#5be7bfae4e41)
 
@@ -53,7 +53,7 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 [Face fitting HK Mask with sewing patterns in for babies, children and adults](https://diymask.site/) (machine needed)
 
-[Instructions for a simple surgical mask style mask](https://www.instructables.com/id/AB-Mask-for-a-Nurse-by-a-Nurse/) (machine needed)
+[Instructions for a simple surgical mask style mask](https://www.instructables.com/id/AB-Mask-for-a-Nurse-by-a-Nurse/)  (machine needed)
 
 [Download the PDF sewing pattern for the Co-MASK Basic type](https://www.infirmiers.com/pdf/masque-tissu.pdf) (printer needed)
 
