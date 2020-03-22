@@ -21,7 +21,7 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 ![co-mask basic](media/Co-MASK Basic.png)
 
-More information about the virus and hygiene measures:
+**More information about the virus and hygiene measures:**
 
 [CDC: How to protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)
 
@@ -29,7 +29,7 @@ More information about the virus and hygiene measures:
 
 
 
-More information about masks, their hygiene and effectiveness
+**More information about masks, their hygiene and effectiveness**:
 
 [WHO advice: when and how to use the masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
 
@@ -39,7 +39,7 @@ More information about masks, their hygiene and effectiveness
 
 
 
-Other excellent DIY masks with video instructions:
+**Other excellent DIY masks with video instructions:**
 
 [Face fitting HK Mask with sewing patterns in for babies, children and adults](https://diymask.site/) (machine needed)
 
