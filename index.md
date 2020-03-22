@@ -39,6 +39,8 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 [Scientific testing:  What is the efficacy of the homemade masks?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
 
+[Forbes article: Calling for mask makers to address healthcare worker PPE shortage](https://www.forbes.com/sites/tjmccue/2020/03/20/calling-all-people-who-sew-and-make-you-can-help-solve-2020-n95-type-mask-shortage/?fbclid=IwAR0NsmbXPKeVfUDz3MtjHyElnb9QrAzLfYfasiexVrScos7pwdN2uXjfZmw#5be7bfae4e41)
+
 
 
 **Other excellent DIY masks with video instructions:**
