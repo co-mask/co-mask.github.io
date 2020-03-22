@@ -10,11 +10,11 @@
 
 Translations in progress, contact us if you want to add your language.
 
-We invite you to join a global project to create fabric masks that promote hope, humanity, and hygiene practices in time of crisis. Collaborating across borders, we want to raise awareness about the risks of COVID-19 infection and the need for physical distancing, advocating solidarity. 
+We invite you to join a global project to create fabric masks that promote hope, humanity, and hygiene practices in time of crisis. Collaborating across borders, we want to raise awareness about the risks of COVID-19 infection and the need for physical distancing and self-isolation, while advocating solidarity with the most vulnerable in your community. 
 
 Kiss and smile at a safe distance!
 
-The project offers instructions in many languages for how to make masks in individual sizes at home. All you need are materials you will likely find at home: a cotton T-shirt, a kitchen cloth, and non-woven fabric. You do not need a sewing machine; scissors, thread, and needle will be enough. The masks are washable, have a nose clip, and allow you to insert a replaceable filter, such as a surgical mask. **While the Co-MASK cannot prevent an infection with the Coronavirus, it offers some protection from larger droplets and prevents you from touching your face**. We hope to inspire you to create these masks for your family, friends, and your community. Please [wash your hands and the masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks) before disseminating and be careful to distribute them without direct physical contact. 
+The project offers instructions in many languages for how to make masks in individual sizes at home. All you need are materials you will likely find at home: a cotton T-shirt, a kitchen cloth, and non-woven fabric. You do not need a sewing machine; scissors, thread, and needle will be enough. The masks are washable, have a nose clip, and allow you to insert a replaceable filter, such as a surgical mask. **While the Co-MASK cannot prevent an infection with the Coronavirus, it offers some protection from larger droplets and prevents you from touching your face. Suppression and self-isolation are the only things proven to protect the larger community! **We hope to inspire you to create these masks for your family, friends, and your community. Please [wash your hands and the masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks) before disseminating and be careful to distribute them without direct physical contact. 
 
 Create your own mask with a kiss and a smile, post it on social media with the hashtag **#CoMASK**
 
@@ -48,6 +48,4 @@ Other excellent DIY masks with video instructions:
 [Youtube video instructions - how to modify the MERV13 filter for the mask](https://youtu.be/6T787NV6FpA)
 
 
-
-DIY
 
