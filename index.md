@@ -14,9 +14,23 @@ We invite you to join a global project to create fabric masks that promote hope,
 
 Kiss and smile at a safe distance!
 
-The project offers instructions in many languages for how to make masks in individual sizes. All you need are materials you will likely find at home: a cotton T-shirt, a kitchen cloth, and non-woven fabric. You do not need a sewing machine; scissors, thread, and needle will be enough. The masks are washable, have a nose clip, and allow you to insert a replaceable filter, such as a surgical mask. **While the Co-MASK cannot prevent an infection with the Coronavirus, it offers some protection from larger droplets and prevents you from touching your face**. We are currently translating the mask instructions into many languages–you are welcome to help. We hope to inspire you to create these masks for your family, friends, and your community. Please wash your hands and the masks before disseminating and be careful to distribute them without direct physical contact. 
+The project offers instructions in many languages for how to make masks in individual sizes. All you need are materials you will likely find at home: a cotton T-shirt, a kitchen cloth, and non-woven fabric. You do not need a sewing machine; scissors, thread, and needle will be enough. The masks are washable, have a nose clip, and allow you to insert a replaceable filter, such as a surgical mask. **While the Co-MASK cannot prevent an infection with the Coronavirus, it offers some protection from larger droplets and prevents you from touching your face**. We are currently translating the mask instructions into many languages–you are welcome to help. We hope to inspire you to create these masks for your family, friends, and your community. Please [wash your hands and the masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks) before disseminating and be careful to distribute them without direct physical contact. 
 
 Create your own mask with a kiss and a smile, post it on social media with the hashtag **#CoMASK**
 
 
 ![co-mask basic](media/Co-MASK Basic.png)
+
+More information about the virus and hygiene measures from CDC:
+
+[How to protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)
+
+[Guidelines on how to keep your workplace safe](https://www.cdc.gov/coronavirus/2019-ncov/downloads/workplace-school-and-home-guidance.pdf)
+
+
+
+More information about masks, their hygiene and effectiveness
+
+[WHO advice: when and how to use the masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
+
+[A comparative study of fabric masks vs. medical masks](https://bmjopen.bmj.com/content/5/4/e006577)
