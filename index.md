@@ -41,6 +41,8 @@ Other excellent DIY masks with video instructions:
 
 [Face fitting HK Mask with sewing patterns in for babies, children and adults](https://diymask.site/) (machine needed)
 
+[Instructions for a simple surgical mask style mask](https://www.instructables.com/id/AB-Mask-for-a-Nurse-by-a-Nurse/) (machine needed)
+
 [Download the PDF sewing pattern for the Co-MASK Basic type](https://www.infirmiers.com/pdf/masque-tissu.pdf) (printer needed)
 
 [Youtube video instructions - how to modify the MERV13 filter for the mask](https://youtu.be/6T787NV6FpA)
