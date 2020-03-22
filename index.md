@@ -21,11 +21,11 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 ![co-mask basic](media/Co-MASK Basic.png)
 
-More information about the virus and hygiene measures from CDC:
+More information about the virus and hygiene measures:
 
-[How to protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)
+[CDC: How to protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)
 
-[Guidelines on how to keep your workplace safe](https://www.cdc.gov/coronavirus/2019-ncov/downloads/workplace-school-and-home-guidance.pdf)
+[CDC guidelines on how to keep your workplace safe](https://www.cdc.gov/coronavirus/2019-ncov/downloads/workplace-school-and-home-guidance.pdf)
 
 
 
