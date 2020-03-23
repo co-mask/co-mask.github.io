@@ -53,6 +53,8 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 **Other excellent DIY masks with video instructions:**
 
+[Simple formfitting mask using just one sheet of fabric](https://www.youtube.com/watch?v=WlguehtIpu8) (machine needed)
+
 [Face fitting HK Mask with sewing patterns in for babies, children and adults](https://diymask.site/) (machine needed)
 
 [Instructions for a simple surgical mask style mask](https://www.instructables.com/id/AB-Mask-for-a-Nurse-by-a-Nurse/)  (machine needed)
