@@ -45,7 +45,7 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 **Donate your masks:**
 
-Cambridge Health Alliance accepting mask donations
+[Cambridge Health Alliance accepting mask donations](https://www.bostonglobe.com/2020/03/17/metro/cambridge-health-alliance-accepting-mask-donations-amid-coronavirus-pandemic/)
 
 [Forbes article: Calling for mask makers to address healthcare worker PPE shortage](https://www.forbes.com/sites/tjmccue/2020/03/20/calling-all-people-who-sew-and-make-you-can-help-solve-2020-n95-type-mask-shortage/?fbclid=IwAR0NsmbXPKeVfUDz3MtjHyElnb9QrAzLfYfasiexVrScos7pwdN2uXjfZmw#5be7bfae4e41)
 
