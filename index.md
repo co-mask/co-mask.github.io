@@ -27,6 +27,8 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 [CDC: How to protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)
 
+[CDC: How to disinfect your home, especially if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html)
+
 [CDC guidelines on how to keep your workplace safe](https://www.cdc.gov/coronavirus/2019-ncov/downloads/workplace-school-and-home-guidance.pdf)
 
 
