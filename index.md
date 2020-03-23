@@ -39,6 +39,8 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 [Scientific testing:  What is the efficacy of the homemade masks?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
 
+[A shared open source document on DIY masks and resources](https://bit.ly/diycovidmasks) 
+
 
 
 **Donate your masks:**
