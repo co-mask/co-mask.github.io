@@ -21,7 +21,6 @@ We hope to inspire you to create these masks for your family, friends, and your 
 Create your own mask with a kiss and a smile, post it on social media with the hashtag **#CoMASK**
 
 
-![co-mask basic](media/Co-MASK Basic.png)
 ![co-mask basic](media/CoMASK2.png)
 
 **More information about the virus and hygiene measures:**
