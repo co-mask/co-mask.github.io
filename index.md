@@ -22,6 +22,7 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 
 ![co-mask basic](media/Co-MASK Basic.png)
+![co-mask basic](media/CoMASK2.png)
 
 **More information about the virus and hygiene measures:**
 
