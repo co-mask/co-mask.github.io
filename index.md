@@ -2,11 +2,12 @@
 
 |How to make:||||
 |:--|---|---|---|
-| [اَلْعَرَبِيَّةُ](https://docs.google.com/presentation/d/1c4zXEowPAIgQcasyMvJvLNEohecMwBvjLJr82WEY9nU/edit?usp=sharing) | [ελληνικά](https://docs.google.com/presentation/d/1wxX9T3keWJAIGZngB93HFvJZnJ3-_6vaQDpDb8kAoH0/edit?usp=sharing) | [Македонски јазик](https://docs.google.com/presentation/d/1J5Xn39DEPJGAu11cEJAU6jVe7WKD11tXWP7bpP5ClAY/edit?usp=sharing) | [Türkçe](https://docs.google.com/presentation/d/1zsKw7xeurfuEbOJjGvUP_igr3cMyd7Jflbu0kfEKD1Y/edit#slide=id.g71aa90b52d_0_0) |
-| [Bosanski](https://docs.google.com/presentation/d/1Wo35d7BZaEPhtMg0TuXQrnP0szMFHge_3etbAyDg__4/edit?usp=sharing) | [עִבְרִית‎](https://docs.google.com/presentation/d/1cNT-sOp2vS-0BuAuIIPzrBh3zdez-ZKLi3l8RrRI3sY/edit?usp=sharing) | [한국어/韓國語](https://docs.google.com/presentation/d/1MSDEfAQ_TDWf14yAfKbZgJvZ3HnY3I51Qqd50tawSSw/edit?usp=sharing) | [Tiếng Việt](https://docs.google.com/presentation/d/1ctL3x1vGUNbWFwoVEHvtWB3dTTYwhLf7mCxSTDZso3o/edit?usp=sharing) |
-| [Deutsch](https://docs.google.com/presentation/d/1PFxRqqfLwhkqDWGTxXlwi_zWoegKpmUAv-mcQOVGjkQ/edit?usp=sharing) | [Italiano](https://docs.google.com/presentation/d/1_RHBFR9ubGLrgpFGF5re_CpbbsZj4yRjeo9oioCYMM0/edit?usp=sharing) | [Português](https://docs.google.com/presentation/d/1k7DGbnfYzxcFBW5vOmlco_-1Y9bfZ-5FkDBA2iAVzoU/edit?usp=sharing) | [தமிழ்](https://docs.google.com/presentation/d/16wu1WctaFuU-JPeHeJn5VZT9-NVIj84GiU8-2YeXiGw/edit?usp=sharing) |
-| [English](https://docs.google.com/presentation/d/1T_rO2Q8HKdWN_8hhGp65-JKylpn2vpFx0kGD602U618/edit?usp=sharing) | [ಕನ್ನಡ](https://drive.google.com/file/d/1ieR4GluTDGDIAKGpEBvO1F3S1BGUKwqN/view?usp=sharing) | [Español](https://docs.google.com/presentation/d/1LXYo50ZgN1rFB-5t_2WhzbM1kg1Z7gD_UUVFEN1SblE/edit?usp=sharing) | [русский язык](https://docs.google.com/presentation/d/1ICBEGSqWGv77sltmagEMounJvhpGmTy_wgziBZPkJ0s/edit?usp=sharing) |
-|[Français](https://docs.google.com/presentation/d/1H5tWf3gtuaeDWoVCub0vQIlLQSlLNcrS66FRDp7clnk/edit?usp=sharing)|[Kiswahili](https://drive.google.com/file/d/1kifC_CVGkABFKkBGYepTEFmdtYuc3rmB/view?usp=sharing)|[Slovenščina](https://docs.google.com/presentation/d/1CRa1snrNdU6x1cxTsMqAMStENCoHXgZ3_bzbxVPngOo/edit?usp=sharing)|українська мова|
+| [اَلْعَرَبِيَّةُ](https://docs.google.com/presentation/d/1c4zXEowPAIgQcasyMvJvLNEohecMwBvjLJr82WEY9nU/edit?usp=sharing) | [ગુજરાતી](https://docs.google.com/presentation/d/1yMhNrhVc02ptqK3gul5Z-JmK5Wz6Xme18IYk34kz90I/edit?usp=sharing) | [한국어/韓國語](https://docs.google.com/presentation/d/1MSDEfAQ_TDWf14yAfKbZgJvZ3HnY3I51Qqd50tawSSw/edit?usp=sharing) | [தமிழ்](https://docs.google.com/presentation/d/16wu1WctaFuU-JPeHeJn5VZT9-NVIj84GiU8-2YeXiGw/edit?usp=sharing) |
+| [Bosanski](https://docs.google.com/presentation/d/1Wo35d7BZaEPhtMg0TuXQrnP0szMFHge_3etbAyDg__4/edit?usp=sharing) | [עִבְרִית‎](https://docs.google.com/presentation/d/1cNT-sOp2vS-0BuAuIIPzrBh3zdez-ZKLi3l8RrRI3sY/edit?usp=sharing) | [Português](https://docs.google.com/presentation/d/1k7DGbnfYzxcFBW5vOmlco_-1Y9bfZ-5FkDBA2iAVzoU/edit?usp=sharing) | [русский язык](https://docs.google.com/presentation/d/1ICBEGSqWGv77sltmagEMounJvhpGmTy_wgziBZPkJ0s/edit?usp=sharing) |
+| [Deutsch](https://docs.google.com/presentation/d/1PFxRqqfLwhkqDWGTxXlwi_zWoegKpmUAv-mcQOVGjkQ/edit?usp=sharing) | [Italiano](https://docs.google.com/presentation/d/1_RHBFR9ubGLrgpFGF5re_CpbbsZj4yRjeo9oioCYMM0/edit?usp=sharing) | [Español](https://docs.google.com/presentation/d/1LXYo50ZgN1rFB-5t_2WhzbM1kg1Z7gD_UUVFEN1SblE/edit?usp=sharing) | українська мова |
+| [English](https://docs.google.com/presentation/d/1T_rO2Q8HKdWN_8hhGp65-JKylpn2vpFx0kGD602U618/edit?usp=sharing) | [ಕನ್ನಡ](https://drive.google.com/file/d/1ieR4GluTDGDIAKGpEBvO1F3S1BGUKwqN/view?usp=sharing) | [Slovenščina](https://docs.google.com/presentation/d/1CRa1snrNdU6x1cxTsMqAMStENCoHXgZ3_bzbxVPngOo/edit?usp=sharing) |  |
+|[Français](https://docs.google.com/presentation/d/1H5tWf3gtuaeDWoVCub0vQIlLQSlLNcrS66FRDp7clnk/edit?usp=sharing)|[Kiswahili](https://drive.google.com/file/d/1kifC_CVGkABFKkBGYepTEFmdtYuc3rmB/view?usp=sharing)|[Türkçe](https://docs.google.com/presentation/d/1zsKw7xeurfuEbOJjGvUP_igr3cMyd7Jflbu0kfEKD1Y/edit#slide=id.g71aa90b52d_0_0)||
+|[ελληνικά](https://docs.google.com/presentation/d/1wxX9T3keWJAIGZngB93HFvJZnJ3-_6vaQDpDb8kAoH0/edit?usp=sharing)|[Македонски јазик](https://docs.google.com/presentation/d/1J5Xn39DEPJGAu11cEJAU6jVe7WKD11tXWP7bpP5ClAY/edit?usp=sharing)|[Tiếng Việt](https://docs.google.com/presentation/d/1ctL3x1vGUNbWFwoVEHvtWB3dTTYwhLf7mCxSTDZso3o/edit?usp=sharing)||
 
 Translations in progress, contact us if you want to add your language.
 
@@ -39,7 +40,11 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 [A comparative study of fabric masks vs. medical masks](https://bmjopen.bmj.com/content/5/4/e006577)
 
-[Scientific testing:  What is the efficacy of the homemade masks?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
+[Scientific testing:  What is the efficacy of the homemade masks?](https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/testing-the-efficacy-of-homemade-masks-would-they-protect-in-an-influenza-pandemic/0921A05A69A9419C862FA2F35F819D55)
+
+[Risks on getting infected though improper use of masks](https://www.cbsnews.com/news/coronavirus-prevention-face-mask-not-helpful-wash-hands/)
+
+[Should you be wearing a mask? Experts disagree](https://www.livescience.com/coronavirus-do-face-masks-work.html)
 
 [A shared open source document on DIY masks and resources](https://bit.ly/diycovidmasks) 
 
