@@ -26,6 +26,8 @@ Create your own mask with a kiss and a smile, post it on social media with the h
 
 **More information about the virus and hygiene measures:**
 
+[CDC Recommendation: Why we should all wear masks!](https://www.actionnewsjax.com/news/trending/coronavirus-do-we-all-need-wear-masks-cdc-is-considering-it/PCJ27GQOBJHZDCZ7ESEUOXM57M/)
+
 [CDC: How to protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)
 
 [CDC: How to disinfect your home, especially if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html)
